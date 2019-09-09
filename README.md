@@ -1,5 +1,7 @@
 # react sku-filter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/react-immutable-sku.svg)](https://greenkeeper.io/)
+
 仿淘宝商品属性选择器
 基于 ImmutableJS 数据类型的练手
 思路是把sku设计成 ```'color:red;size:xl;'```的形式，
